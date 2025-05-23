@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @SUHANIKOTHARI06
+- 👋 Hi, I’m __@SUHANIKOTHARI06__
 - 👀 I’m interested in learning new skills that excites me.
-- 🌱 I’m currently learning Machine Learning & DSA.
-- 💞️ I’m looking to collaborate on buildspace.
-- 📫 How to reach me suhanikothari2004@gmail.com
-- 😄 Pronouns: ...
-- ⚡ I believe connecting with new people will definetely give you a new idea.
+- 🌱 I’m currently learning __Machine Learning & DSA__.
+- ✨ I’m looking to collaborate on __buildspace__.
+- 📫 How to reach me __suhanikothari2004@gmail.com__.
+- ⚡ I believe connecting with new people will definetely give you a new idea.Let's connect and get something new to learn today.
 
 <!---
 SUHANIKOTHARI06/SUHANIKOTHARI06 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
